@@ -1,0 +1,1 @@
+This is a project to demonstrate HTML foundations by creating a website that displays a few recipes
